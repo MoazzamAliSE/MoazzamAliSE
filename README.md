@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **flutter, dart**
 
-- 📫 How to reach me **fa21-bse-010@students.cuisahiwal.edu.pk**
+- 📫 How to reach me **moazzamali6040@gmail.com**
 
 - ⚡ Fun fact **Flutter = Future**
 
