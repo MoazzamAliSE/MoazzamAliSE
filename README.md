@@ -15,7 +15,7 @@ I'm Moazzam Ali, a Flutter developer from Pakistan. I'm enthusiastic about build
 - ⚡ Fun fact: **Flutter = Future**
 
 ---
-
+**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=MoazzamAliSE&label=Profile%20Views&color=blue&style=flat-square)
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-Moazzam%20Ali-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moazzamalise/)](https://www.linkedin.com/in/moazzamalise/)
@@ -41,9 +41,8 @@ I'm Moazzam Ali, a Flutter developer from Pakistan. I'm enthusiastic about build
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoazzamAliSE&theme=radical)
 
-**Total Contributions:** ![Total Contributions](https://img.shields.io/github/contributions/MoazzamAliSE/MoazzamAliSE)
 
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=MoazzamAliSE&label=Profile%20Views&color=blue&style=flat-square)
+
 
 
 
