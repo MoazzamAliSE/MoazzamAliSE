@@ -41,23 +41,9 @@ I'm Moazzam Ali, a Flutter developer from Pakistan. I'm enthusiastic about build
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoazzamAliSE&theme=radical)
 
-**Total Contributions:** 1000
+**Total Contributions:** ![Total Contributions](https://img.shields.io/github/contributions/MoazzamAliSE/MoazzamAliSE)
 
 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=MoazzamAliSE&label=Profile%20Views&color=blue&style=flat-square)
 
----
 
-## Projects
-
-- [Project 1](#) - Brief description
-- [Project 2](#) - Brief description
-- [Project 3](#) - Brief description
-
----
-
-## Contributions
-
-- [Contribution 1](#) - Brief description
-- [Contribution 2](#) - Brief description
-- [Contribution 3](#) - Brief description
 
