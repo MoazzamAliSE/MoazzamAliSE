@@ -34,8 +34,8 @@ I'm Moazzam Ali, a Flutter developer from Pakistan. I'm enthusiastic about build
 ---
 
 ## GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoazzamAliSE&theme=dark&hide_border=true&border_radius=32&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoazzamAliSE&theme=radica&border_radius=32&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoazzamAliSE&theme=youtube-dark&hide_border=true&border_radius=32&exclude_days=Sun%2CSat&card_width=1000&sideLabels=EB0000&fire=EB5454)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoazzamAliSE&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoazzamAliSE&layout=compact&theme=radical)
