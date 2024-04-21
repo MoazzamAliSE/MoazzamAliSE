@@ -32,6 +32,7 @@ I'm Moazzam Ali, a Flutter developer from Pakistan. I'm enthusiastic about build
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoazzamAliSE&theme=radical&border_radius=32&exclude_days=Sun%2CSat&card_width=1000&sideLabels=EB0000&fire=EB5454)](https://git.io/streak-stats)
@@ -72,11 +73,3 @@ I'm Moazzam Ali, a Flutter developer from Pakistan. I'm enthusiastic about build
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MoazzamAliSE/MoazzamAliSE/output/snake.svg" alt="Snake animation" />
-
-
-  
