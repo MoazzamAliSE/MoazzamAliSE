@@ -32,7 +32,7 @@ I'm Moazzam Ali, a Flutter developer from Pakistan. I'm enthusiastic about build
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-![snake gif](https://github.com/MoazzamAliSE/MoazzamAliSE/blob/output/github-contribution-grid-snake.svg)
+<!--- ![snake gif](https://github.com/MoazzamAliSE/MoazzamAliSE/blob/output/github-contribution-grid-snake.svg)-->
 
 ## GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MoazzamAliSE&theme=radical&exclude_days=Sun%2CSat&card_width=1000&sideLabels=EB0000&fire=EB5454)](https://git.io/streak-stats)
